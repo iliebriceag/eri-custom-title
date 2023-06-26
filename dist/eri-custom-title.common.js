@@ -101,9 +101,9 @@ if (typeof window !== 'undefined') {
 
 ;// CONCATENATED MODULE: external {"commonjs":"vue","commonjs2":"vue","root":"Vue"}
 var external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject = require("vue");
-;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/eri-custom-title.vue?vue&type=template&id=d754519e&scoped=true
+;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[3]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/eri-custom-title.vue?vue&type=template&id=741188b8&scoped=true
 
-const _withScopeId = n => (_pushScopeId("data-v-d754519e"), n = n(), _popScopeId(), n);
+const _withScopeId = n => (_pushScopeId("data-v-741188b8"), n = n(), _popScopeId(), n);
 const _hoisted_1 = {
   class: "myTit"
 };
@@ -115,11 +115,10 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     })
   }, (0,external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject.toDisplayString)($props.myTitle), 5)]);
 }
-;// CONCATENATED MODULE: ./src/components/eri-custom-title.vue?vue&type=template&id=d754519e&scoped=true
+;// CONCATENATED MODULE: ./src/components/eri-custom-title.vue?vue&type=template&id=741188b8&scoped=true
 
 ;// CONCATENATED MODULE: ./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib/index.js??clonedRuleSet-40.use[1]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/eri-custom-title.vue?vue&type=script&lang=js
 const __default__ = {
-  name: 'EriCustomTitle',
   props: {
     myTitle: {
       type: String,
@@ -132,7 +131,7 @@ const __default__ = {
     borderColor: {
       type: String,
       required: true,
-      default: '#ccc'
+      default: '#2595be'
     },
     borderHeight: {
       type: String,
@@ -144,8 +143,8 @@ const __default__ = {
 
 const __injectCSSVars__ = () => {
   (0,external_commonjs_vue_commonjs2_vue_root_Vue_namespaceObject.useCssVars)(_ctx => ({
-    "435d12fa": _ctx.borderHeight,
-    "176e2e87": _ctx.borderColor
+    "12cd273c": _ctx.borderHeight,
+    "6265faa4": _ctx.borderColor
   }));
 };
 const __setup__ = __default__.setup;
@@ -156,10 +155,10 @@ __default__.setup = __setup__ ? (props, ctx) => {
 /* harmony default export */ var eri_custom_titlevue_type_script_lang_js = (__default__);
 ;// CONCATENATED MODULE: ./src/components/eri-custom-title.vue?vue&type=script&lang=js
  
-;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/eri-custom-title.vue?vue&type=style&index=0&id=d754519e&scoped=true&lang=css
+;// CONCATENATED MODULE: ./node_modules/mini-css-extract-plugin/dist/loader.js??clonedRuleSet-12.use[0]!./node_modules/css-loader/dist/cjs.js??clonedRuleSet-12.use[1]!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-12.use[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./src/components/eri-custom-title.vue?vue&type=style&index=0&id=741188b8&scoped=true&lang=css
 // extracted by mini-css-extract-plugin
 
-;// CONCATENATED MODULE: ./src/components/eri-custom-title.vue?vue&type=style&index=0&id=d754519e&scoped=true&lang=css
+;// CONCATENATED MODULE: ./src/components/eri-custom-title.vue?vue&type=style&index=0&id=741188b8&scoped=true&lang=css
 
 // EXTERNAL MODULE: ./node_modules/vue-loader/dist/exportHelper.js
 var exportHelper = __webpack_require__(89);
@@ -171,7 +170,7 @@ var exportHelper = __webpack_require__(89);
 ;
 
 
-const __exports__ = /*#__PURE__*/(0,exportHelper/* default */.Z)(eri_custom_titlevue_type_script_lang_js, [['render',render],['__scopeId',"data-v-d754519e"]])
+const __exports__ = /*#__PURE__*/(0,exportHelper/* default */.Z)(eri_custom_titlevue_type_script_lang_js, [['render',render],['__scopeId',"data-v-741188b8"]])
 
 /* harmony default export */ var eri_custom_title = (__exports__);
 ;// CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
